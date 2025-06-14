@@ -53,4 +53,4 @@ print(f"\nHombres que aprobaron: {hombres_aprobados_total}")
 print(f"Mujeres que aprobaron: {mujeres_aprobados_total}")
 print("Lista de estudiantes que recibirán estímulo académico:")
 for nombre in lista_aprobados_total:
-    print(nombre)
+    print()
